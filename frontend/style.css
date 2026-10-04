@@ -1,5 +1,6 @@
-#mainhead{
+#titlehead{
     font-family:Montserrat;
+    text-shadow:0px 0px 5px blue;
 }
 #name{
     font-size: 24px;
@@ -43,5 +44,12 @@
 
 .feature-card .card-text {
     color: #b8c0cc;
-    line-height: 1.6;
+}
+  
+    #coreidea {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    padding: 30px;
+    background: rgba(17, 24, 39, 0.5);
+    box-shadow:0px 0px 10px blue;
 }
